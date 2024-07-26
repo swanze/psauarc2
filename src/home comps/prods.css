@@ -1,0 +1,119 @@
+/* .home-prod-ext{
+    height: 40vh;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+} */
+/* .home-prod-int{
+    display: flex;
+    justify-content: space-between;
+} */
+/* .home-prod-dtl{
+    width: 50%;
+    background-color: gold;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+} */
+/* .abc{
+    background-color: wheat;
+    padding: 10px;
+} */
+/* .home-prod-gallery{
+    height: 100%;
+    width: 50%;
+    align-items: center;
+}
+.home-prod-gallery-top{
+    display: flex;
+}
+.home-prod-gallery-btm{
+    display: flex;
+} */
+/* .home-prod-gallery-img{
+    width: 50%;
+    height: 50%;
+} */
+/* .home-prod-img-div{
+    width: 100%;
+    height: 80px;
+    align-items: center;
+    margin-top: 10px;
+} */
+/* .home-prod-img{
+    width: 100%;
+    height: 100%;
+    opacity: 20%;
+}
+.home-prod-btn{
+    width: 100%;
+    height: 140px;
+}
+.home-prod-text{
+    margin-top: -13%;
+}
+.home-prod-head{
+    color: black;
+}
+.home-prod-img:hover{
+    opacity: 50%;
+} */
+/* .home-prod-head:hover{
+    text-decoration: line-through;
+} */
+.home-prod-body {
+    background-color: rgb(225, 195, 164);
+    margin-bottom: 20px;
+    text-align: center;
+    /* background-image:
+        linear-gradient(rgb(127, 127, 182), rgba(209, 209, 148, 0.5)),
+        url("../images/dubai.jpg"); */
+}
+
+.home-prod-text-body {
+    padding-top: 5%;
+}
+
+.home-prod-rmbtn {
+    border: 0px;
+    border-radius: 4px;
+    width: 50%;
+    margin: 4%;
+}
+.home-prod-rmbtn-link{
+    color: black;
+    width: 100%;
+    /* background-color: brown; */
+}
+.home-prod-rmbtn-link:hover{
+    color: bisque;
+}
+.home-prod-rmbtn:hover{
+    background-color: blueviolet;
+}
+.opdtl-head-div{
+    text-align: center;
+}
+.opdtl-head-div {
+    display: flex;
+    justify-content: center;
+}
+.main-opdtl-div{
+    /* background-color: chartreuse; */
+    align-content: center;
+    width: 100%;
+    display: flex;
+    flex: 1;
+    gap: 20%;
+    justify-content: center;
+}
+.one-opdtl-div{
+    background-color: rgba(242, 241, 233, 0.222);
+    border: 0px solid white;
+    border-radius: 8px;
+}
+.opdtl-body-div{
+    text-align: center;
+}

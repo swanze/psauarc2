@@ -1,0 +1,38 @@
+.serv-mss-body{
+    display: flex;
+    margin: 20px;
+}
+.serv-mss-img-div{
+    flex: 1;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+}
+.serv-mss-text-div{
+    flex: 1;
+    margin: 10px;
+}
+.serv-mss-img{
+    border-radius: 20px;
+}
+.serv-mss-text-rmbtn{
+    width: 100%;
+    border: none;
+    background-color: goldenrod;
+    border-radius: 4px;
+}
+.serv-mss-text-rmbtn:hover{
+    background-color: cadetblue;
+}
+.serv-mss-text-rmbtn-link{
+    color: black;
+    text-decoration: none;
+    width: 100%;
+    /* background-color: white; */
+    margin-top: 20px;
+    padding-right: 31%;
+    padding-left: 31%;
+}
+.serv-mss-text-rmbtn-link:hover{
+    color: blue;
+    font-weight: 600;
+}

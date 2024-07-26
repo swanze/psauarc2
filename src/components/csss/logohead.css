@@ -1,0 +1,49 @@
+.bodi{
+    background-color: rgb(123, 176, 246);
+    display: flex;
+    /* justify-content: space-between; */
+    width: 100%;
+}
+.mbdivdown{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    width: 50%;
+    /* background-color: aqua; */
+    /* margin-inline: 10%; */
+    margin: auto;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    height: 100%;
+}
+.imgdiv{
+    text-align: center;
+    width: 50%;
+    background-color: #f4f4f4;
+}
+.mbdiv{
+    width: 50%;
+    align-content: center;
+    background-color: wheat;
+    text-align: center;
+    align-items: center;
+    /* background-color: aqua; */
+}
+a{
+    text-decoration: none;
+    color: rgb(181, 149, 108);
+}
+a:hover{
+    color: black;
+}
+img{
+    width: 100%;
+}
+/* hr{
+    color: black;
+} */
+.istyles{
+    font-size: 40px;
+    font-weight: 100;
+}

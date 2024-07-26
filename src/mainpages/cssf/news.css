@@ -1,0 +1,69 @@
+.news-block-body {
+    display: flex;
+    background-color: bisque;
+    padding: 10px 20px 10px 20px;
+}
+
+.news-block1-div {
+    /* size: 50px; */
+    /* display: block; */
+    /* block-size: 50px; */
+    background-image: linear-gradient(rgba(153, 153, 187, 0.9), rgba(179, 179, 139, 0.5)),
+    url("/src/images/mss-cvls.png");
+    background-color: blueviolet;
+    flex: 2;
+    height: 300px;
+    align-items: center;
+    /* box-sizing: content-box; */
+}
+
+.news-block2-div {
+    flex: 1;
+    height: 300px;
+    background-color: blue;
+    align-items: center;
+    background-image: linear-gradient(rgba(153, 153, 187, 0.9), rgba(179, 179, 139, 0.5)),
+    url("/src/images/paksp.jpg");
+}
+
+.news-block34-div {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 300px;
+    /* background-color: yellowgreen; */
+}
+
+.news-block3-div {
+    height: 50%;
+    align-items: center;
+    background-image: linear-gradient(rgba(153, 153, 187, 0.9), rgba(179, 179, 139, 0.5)),
+    url("/src/images/Cairo-airport.jpg");
+    border-radius: 10px;
+    /* padding-bottom: 10px; */
+}
+
+.news-block4-div {
+    height: 50%;
+    background-color: cadetblue;
+    justify-content: center;
+    background-image: linear-gradient(rgba(153, 153, 187, 0.9), rgba(179, 179, 139, 0.5)),
+    url("/src/images/dubai.jpg");
+    border-radius: 10px;
+    /* padding-top: 10px; */
+    /* text-align: center; */
+    /* align-items: center; */
+    /* vertical-align: middle; */
+    /* align-self: center; */
+}
+.everyblock{
+    margin: 10px 10px 10px 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+/* p{
+    color: brown;
+    align-items: center; 
+} */

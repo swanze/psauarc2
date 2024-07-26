@@ -1,0 +1,39 @@
+.Ei-nwsc-body{
+    display: flex;
+    margin: 20px;
+}
+.Ei-nwsc-img-div{
+    flex: 1;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+}
+.Ei-nwsc-text-div{
+    flex: 1;
+    margin: 10px;
+}
+.Ei-nwsc-img{
+    border-radius: 20px;
+    width: 100%;
+}
+.Ei-nwsc-text-rmbtn{
+    width: 100%;
+    border: none;
+    background-color: goldenrod;
+    border-radius: 4px;
+}
+.Ei-nwsc-text-rmbtn:hover{
+    background-color: cadetblue;
+}
+.Ei-nwsc-text-rmbtn-link{
+    color: black;
+    text-decoration: none;
+    width: 100%;
+    /* background-color: white; */
+    margin-top: 20px;
+    padding-right: 31%;
+    padding-left: 31%;
+}
+.Ei-nwsc-text-rmbtn-link:hover{
+    color: blue;
+    font-weight: 600;
+}

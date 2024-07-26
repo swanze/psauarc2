@@ -1,0 +1,16 @@
+.home-wwus-body{
+    display: flex;
+    margin: 20px;
+}
+.home-wwus-img-div{
+    flex: 1;
+    margin: 10px 10px 10px 10px;
+    border-radius: 5px;
+}
+.home-wwus-text-div{
+    flex: 1;
+    margin: 10px;
+}
+.home-wwus-img{
+    border-radius: 20px;
+}
