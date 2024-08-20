@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/psauarc2/static/css/main.70c8595c.css",
+    "main.js": "/psauarc2/static/js/main.73bb936c.js",
+    "static/js/787.e7f576d5.chunk.js": "/psauarc2/static/js/787.e7f576d5.chunk.js",
+    "static/media/PakTES-1A Video on Internet.mp4": "/psauarc2/static/media/PakTES-1A Video on Internet.b81dd72f2b39fd44b5a7.mp4",
+    "static/media/Cairo-airport.jpg": "/psauarc2/static/media/Cairo-airport.dbc5a4da4f15d72c07ea.jpg",
+    "static/media/dubai.jpg": "/psauarc2/static/media/dubai.fef3a2a210287871243e.jpg",
+    "static/media/Kukrimukri.jpg": "/psauarc2/static/media/Kukrimukri.32ac6a502d4886fb6e04.jpg",
+    "static/media/workplace.jpg": "/psauarc2/static/media/workplace.5d7b7aaea092eefaf302.jpg",
+    "static/media/mss-cvls.png": "/psauarc2/static/media/mss-cvls.78ef49b6df3d965a087a.png",
+    "static/media/Balkash.jpg": "/psauarc2/static/media/Balkash.6740fd82479aa3ca3cc1.jpg",
+    "static/media/univ lvl programs.jpeg": "/psauarc2/static/media/univ lvl programs.4e48dc02a26fc437e400.jpeg",
+    "static/media/mss-agroeconomy.jpeg": "/psauarc2/static/media/mss-agroeconomy.65e724d75c611b4ef6fa.jpeg",
+    "static/media/courses we offer.webp": "/psauarc2/static/media/courses we offer.4eae9c9c1a1f50bb0cde.webp",
+    "static/media/logo.jpg": "/psauarc2/static/media/logo.84c71ab556ce35c67964.jpg",
+    "static/media/school space program.jpeg": "/psauarc2/static/media/school space program.0d1692afddeae90aa738.jpeg",
+    "static/media/logo.svg": "/psauarc2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/psauarc2/index.html",
+    "main.70c8595c.css.map": "/psauarc2/static/css/main.70c8595c.css.map",
+    "main.73bb936c.js.map": "/psauarc2/static/js/main.73bb936c.js.map",
+    "787.e7f576d5.chunk.js.map": "/psauarc2/static/js/787.e7f576d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70c8595c.css",
+    "static/js/main.73bb936c.js"
+  ]
+}
