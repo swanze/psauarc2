@@ -19,7 +19,7 @@ import Rev1 from '../revision/Rev1';
 
 function Router() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/psauarc2'>
         <Routes>
             <Route path="/" element={<Home/>}></Route>
             <Route path="/about" element={<About/>}></Route>
