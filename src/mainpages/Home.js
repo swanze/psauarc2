@@ -17,7 +17,7 @@ function Home() {
       </div>
       <div className='intro-div'>
         <h2>Who We Are</h2>
-        <h5>Lorem ipsum dolor sit amet,
+        <p>Lorem ipsum dolor sit amet,
           consectetuer adipiscing elit.
           Aenean commodo ligula eget dolor.
           Aenean massa.
@@ -43,7 +43,7 @@ function Home() {
           Etiam sit amet orci eget eros faucibus tincidunt. Duis leo.
           Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna.
           Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
-        </h5>
+        </p>
       </div>
       {/* <div><h2>Our Products</h2><p>lorem ipsum dolor sit amet</p></div> */}
       <div>
