@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/psauarc2/static/css/main.70c8595c.css",
-    "main.js": "/psauarc2/static/js/main.251e946b.js",
+    "main.js": "/psauarc2/static/js/main.ba695e92.js",
     "static/js/787.e7f576d5.chunk.js": "/psauarc2/static/js/787.e7f576d5.chunk.js",
     "static/media/PakTES-1A Video on Internet.mp4": "/psauarc2/static/media/PakTES-1A Video on Internet.b81dd72f2b39fd44b5a7.mp4",
     "static/media/Cairo-airport.jpg": "/psauarc2/static/media/Cairo-airport.dbc5a4da4f15d72c07ea.jpg",
@@ -18,11 +18,11 @@
     "static/media/logo.svg": "/psauarc2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/psauarc2/index.html",
     "main.70c8595c.css.map": "/psauarc2/static/css/main.70c8595c.css.map",
-    "main.251e946b.js.map": "/psauarc2/static/js/main.251e946b.js.map",
+    "main.ba695e92.js.map": "/psauarc2/static/js/main.ba695e92.js.map",
     "787.e7f576d5.chunk.js.map": "/psauarc2/static/js/787.e7f576d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70c8595c.css",
-    "static/js/main.251e946b.js"
+    "static/js/main.ba695e92.js"
   ]
 }
